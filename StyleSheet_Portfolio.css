@@ -55,7 +55,8 @@ h3 {
 /* For the navigation buttons when the mouse hovers on top of them: */
 .nav-button:hover {
     color: white;
-    background-color: #262626;
+/*     background-color: #262626; */
+    background-color: #160E02;
 }
         
 /* For the navigation buttons: */
@@ -72,7 +73,8 @@ h3 {
     text-align: left;
     padding: 0.25em;
 
-    background-color: rgba(217, 182, 252, 0.6);
+/*     background-color: rgba(217, 182, 252, 0.6); */
+    background-color: #8F5B43;
     border-radius: 2px;
     cursor: pointer;
     transition-duration: 0.5s;
@@ -86,7 +88,7 @@ h3 {
 
 #nav-button-current {
     color: white;
-    background-color: #262626;
+    background-color: #160E02;
 }
         
 /* For the text in the paragraph: */
@@ -100,27 +102,29 @@ p {
 #top-link{
     text-align: center;
     font-size: 24px;
-    color:rgba(217, 182, 252, 0.6);
+/*     color:rgba(217, 182, 252, 0.6); */
+    color: white;
 }
 
 #top-link a:link {
-    color:rgba(217, 182, 252, 0.6);
+/*     color:rgba(217, 182, 252, 0.6); */
+    color: white;
 }
         
 #top-link a:active {
-    color: #9DFCBC;
+    color: #A66046;
 }
         
 #top-link a:default {
-    color: #76B089;
+    color: white;
 }
         
 #top-link a:visited {
-    color: #D9B6FC;
+    color: #653A66;
 }
         
 #top-link a:hover {
-    color: white;
+    color: #662907;
 }
 
 /* This is where the text is: */
