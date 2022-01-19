@@ -219,6 +219,32 @@ p {
         font-size: 100px, auto;
     }
 }
+
+/* adding the text */
+/* help from: https://www.w3schools.com/howto/howto_css_image_overlay.asp */
+.overlay {
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #A68444;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
         
 /* This is for the layout of the page in mobile: */
 @media only screen and (max-width: 767px) {
