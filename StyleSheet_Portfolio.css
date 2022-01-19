@@ -222,7 +222,7 @@ p {
 
 /* adding the text */
 /* help from: https://www.w3schools.com/howto/howto_css_image_overlay.asp */
-.overlay {
+.coverArt {
   height: 100%;
   width: 100%;
   opacity: 0;
@@ -230,7 +230,7 @@ p {
   background-color: #A68444;
 }
 
-.container:hover .overlay {
+.grid-item:hover .coverArt {
   opacity: 1;
 }
 
