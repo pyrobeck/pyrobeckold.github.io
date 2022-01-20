@@ -10,10 +10,10 @@ body {
     background-size: 300px;
             
     /* For the animation in the top left corner: */
-    animation-name: helm-the-bunny;
+/*     animation-name: helm-the-bunny;
     animation-duration: 0.5s;
     animation-timing-function: ease-in-out;
-    animation-delay: 0.5s;
+    animation-delay: 0.5s; */
 }
         
 /* For the headings at the top of the page: */
