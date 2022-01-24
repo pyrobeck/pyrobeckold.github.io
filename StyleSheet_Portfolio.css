@@ -45,14 +45,16 @@ h1 {
 h2 {
     text-align: center;
     font-family: 'Open Sans', sans-serif;
-    color: white;
+/*     color: white; */
+    color: #D9CDB8;
     text-decoration: underline;
 }
         
 h3 {
     text-align: left;
     font-family: 'Open Sans', sans-serif;
-    color: white;
+    color: #D9CDB8;
+/*     color: white; */
 }
         
 /* For the navigation buttons when the mouse hovers on top of them: */
