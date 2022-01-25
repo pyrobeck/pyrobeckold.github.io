@@ -54,8 +54,8 @@ h2 {
 h3 {
     text-align: left;
     font-family: 'Open Sans', sans-serif;
-    color: #D9CDB8;
-/*     color: white; */
+/*     color: #D9CDB8; */
+    color: white;
 }
         
 /* For the navigation buttons when the mouse hovers on top of them: */
