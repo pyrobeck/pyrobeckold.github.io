@@ -265,10 +265,10 @@ p {
         margin-right: 15px;
 
         
-        background-image: url(DigitalArt_helmwithfriends.jpg);
-        background-repeat: no-repeat;
+        background-image: url(forportfoliocropped.jpg);
+/*         background-repeat: no-repeat; */
         background-position: 20px 20px;
-        background-size: 90px;
+        background-size: 110px;
     }
             
     /* The navigation buttons now take up the whole site: */
